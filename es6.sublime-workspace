@@ -1,0 +1,1902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"setCol",
+				"setColorToDefault"
+			],
+			[
+				"default",
+				"defaultAlpha\t? "
+			],
+			[
+				"defau",
+				"defaultColor\tnum "
+			],
+			[
+				"the",
+				"theme_"
+			],
+			[
+				"si",
+				"sidata"
+			],
+			[
+				"storethe",
+				"storethemes"
+			],
+			[
+				"storet",
+				"storethemes"
+			],
+			[
+				"store",
+				"storeImages"
+			],
+			[
+				"sid",
+				"sidatas\t[] "
+			],
+			[
+				"sto",
+				"storeImageLayer\t{} "
+			],
+			[
+				"sida",
+				"sidatas\t[] "
+			],
+			[
+				"getCor",
+				"getOrCreateLayer"
+			],
+			[
+				"wi",
+				"writeln"
+			],
+			[
+				"nex",
+				"nextGid"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"grou",
+				"groupId\t? "
+			],
+			[
+				"res",
+				"result\t{} "
+			],
+			[
+				"br",
+				"brothers"
+			],
+			[
+				"upd",
+				"updateStyle"
+			],
+			[
+				"firs",
+				"firstLine"
+			],
+			[
+				"fir",
+				"firstLine"
+			],
+			[
+				"visi",
+				"_visibleGroupIDsChanged"
+			],
+			[
+				"das",
+				"dashArray\t[] "
+			],
+			[
+				"_vi",
+				"_visible_"
+			],
+			[
+				"_visi",
+				"_visible"
+			],
+			[
+				"no",
+				"noCerity"
+			],
+			[
+				"conver",
+				"convertSite1_"
+			],
+			[
+				"qu",
+				"quicklyRemove"
+			],
+			[
+				"theme",
+				"themeArr\t[] "
+			],
+			[
+				"titl",
+				"_tiltToID\tnum "
+			],
+			[
+				"_move",
+				"_moveToID"
+			],
+			[
+				"font",
+				"font_face"
+			],
+			[
+				"gr",
+				"groupId\t{} "
+			],
+			[
+				"getDe",
+				"getDeviceWH"
+			],
+			[
+				"com",
+				"componentsManager\t? "
+			],
+			[
+				"group",
+				"_groupPointsIndex\tnum "
+			],
+			[
+				"_grou",
+				"_groupPointsIndex\tnum "
+			],
+			[
+				"draw",
+				"drawNaviLine\t? "
+			],
+			[
+				"setS",
+				"setStartPoint\t? "
+			],
+			[
+				"par",
+				"parseFloat(string) -> number\tfn "
+			],
+			[
+				"stro",
+				"storePoiThemes\t{} "
+			],
+			[
+				"mater",
+				"materials"
+			],
+			[
+				"offset",
+				"offsetHeight"
+			],
+			[
+				"las",
+				"lastData\t{} "
+			],
+			[
+				"_g",
+				"_groupsPoints\t? "
+			],
+			[
+				"Vec",
+				"Vector3(x, y, z)\tfn "
+			],
+			[
+				"_get",
+				"_getTransformByLength(vs, len) -> {}\tfn "
+			],
+			[
+				"FMImage",
+				"FMImageMarker(opts)\tfn "
+			],
+			[
+				"getM",
+				"getMonth() -> number\tfn "
+			],
+			[
+				"re",
+				"return\t? "
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"des",
+				"desPnt\t{} "
+			],
+			[
+				"mu",
+				"multiplyScalar(scalar) -> fm.Vector3\tfn "
+			],
+			[
+				"sar",
+				"startFid"
+			],
+			[
+				"rend",
+				"renderStep"
+			],
+			[
+				"fr",
+				"frameRate"
+			],
+			[
+				"fade",
+				"fadeVisible\tbool "
+			],
+			[
+				"lab",
+				"label\t{} "
+			],
+			[
+				"ch",
+				"checkOnLine"
+			],
+			[
+				"navi",
+				"naviDescriptionsData\t[] "
+			],
+			[
+				"Uin",
+				"Uint8Array(size)\tfn "
+			],
+			[
+				"mapS",
+				"mapScene\t? "
+			],
+			[
+				"ca",
+				"canvas_\t? "
+			],
+			[
+				"cons",
+				"constAlpha"
+			],
+			[
+				"op",
+				"openMap\t? "
+			],
+			[
+				"dis",
+				"distance\t? "
+			],
+			[
+				"m_",
+				"m_Start\t{} "
+			],
+			[
+				"getLiftFl",
+				"getLiftFlagId() -> number\tfn "
+			],
+			[
+				"mod",
+				"Model"
+			],
+			[
+				"type",
+				"typeapply\t? "
+			],
+			[
+				"nee",
+				"needStart\tbool "
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"_min",
+				"_minScale\tnum "
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"map",
+				"mapServerURL\tstr "
+			],
+			[
+				"_aj",
+				"_ajaxSer()\tfn "
+			],
+			[
+				"on",
+				"onlineCheck\tstr "
+			],
+			[
+				"get",
+				"getCerityData(map, mapID) -> {}\tfn "
+			],
+			[
+				"tmp",
+				"tmpPt"
+			],
+			[
+				"fl",
+				"FLOOR"
+			],
+			[
+				"Rend",
+				"FMRenderOrder\t{} "
+			],
+			[
+				"add",
+				"add(object) -> fengmap.MapLabel\tfn "
+			],
+			[
+				"deve",
+				"devicePixelRatio\tnum "
+			],
+			[
+				"defaultMapScale",
+				"defaultMapScaleLevel\t? "
+			],
+			[
+				"mode",
+				"modelLine"
+			],
+			[
+				"ma",
+				"makeTranslation(x, y, z) -> fm.Matrix4\tfn "
+			],
+			[
+				"geo",
+				"geometry\t{} "
+			],
+			[
+				"sub",
+				"sub(v, w) -> fm.Vector3\tfn "
+			],
+			[
+				"cl",
+				"clone() -> fm.Vector3|fm.Vector3\tfn "
+			],
+			[
+				"bo",
+				"boundingSphere\t{} "
+			],
+			[
+				"off",
+				"offsetHeight"
+			],
+			[
+				"maps",
+				"mapscale\tnum "
+			],
+			[
+				"_max",
+				"_maxMapScale"
+			],
+			[
+				"auto",
+				"autoDrawNaviLine"
+			],
+			[
+				"_navi",
+				"_naviResult\t? "
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"pa",
+				"param\t@param"
+			],
+			[
+				"defaultMap",
+				"defaultMapScaleLevel\t? "
+			],
+			[
+				"mapScale",
+				"mapScaleLevelRange\t? "
+			],
+			[
+				"tihs",
+				"this_\t{} "
+			],
+			[
+				"start",
+				"startData\t{} "
+			],
+			[
+				"s",
+				"store\t{} "
+			],
+			[
+				"st",
+				"storeImages"
+			],
+			[
+				"FMLayer",
+				"FMLayerType\t{} "
+			],
+			[
+				"ro",
+				"rotateZ(angle) -> fm.Object3D\tfn "
+			],
+			[
+				"scene",
+				"sceneZ_\tnum "
+			],
+			[
+				"dash",
+				"dashArray"
+			],
+			[
+				"naviMap",
+				"naviMapStyle\t{} "
+			],
+			[
+				"D",
+				"DOT_DASH\tstr "
+			],
+			[
+				"FMLine",
+				"FMLineType\t{} "
+			],
+			[
+				"o",
+				"o3dNavigation_\t? "
+			],
+			[
+				"to",
+				"toSceneCoord"
+			],
+			[
+				"L",
+				"LINE\tnum "
+			],
+			[
+				"pick",
+				"picked"
+			],
+			[
+				"is",
+				"isPickedComponent\tbool "
+			],
+			[
+				"Comp",
+				"FMComponent(manager, object)\tfn "
+			],
+			[
+				"FMPol",
+				"FMPolygonMarkerLayer(data)\tfn "
+			],
+			[
+				"FMLo",
+				"FMLocationMarkerLayer(data)\tfn "
+			],
+			[
+				"layer",
+				"layerAlias\tstr "
+			],
+			[
+				"FMTextMa",
+				"FMTextMarkerLayer(data)\tfn "
+			],
+			[
+				"ft",
+				"ft11\t{} "
+			],
+			[
+				"V",
+				"Vector3(x, y, z)\tfn "
+			],
+			[
+				"_c",
+				"_center\t{} "
+			],
+			[
+				"_e",
+				"_extend\tnum "
+			],
+			[
+				"h",
+				"halfSpace\tnum "
+			],
+			[
+				"del",
+				"delta\tnum "
+			],
+			[
+				"Matr",
+				"Matrix4()\tfn "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"SVN: Commit…"
+			],
+			[
+				"log",
+				"SVN: Log"
+			],
+			[
+				"up",
+				"SVN: Update"
+			],
+			[
+				"statu",
+				"SVN: Status"
+			],
+			[
+				"upd",
+				"SVN: Update"
+			],
+			[
+				"ter",
+				"tern_for_sublime: Select Variable"
+			],
+			[
+				"lo",
+				"SVN: Log"
+			],
+			[
+				"ig",
+				"SVN: (File) Ignore"
+			],
+			[
+				"stat",
+				"SVN: Status"
+			],
+			[
+				"pre",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"svn",
+				"SVN: (File) Ignore"
+			],
+			[
+				"pres",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"the",
+				"Themr: List favorite themes"
+			],
+			[
+				"them",
+				"Themr: List favorite themes"
+			],
+			[
+				"tht",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"theme",
+				"Themr: List favorite themes"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sssjs",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"update",
+				"SVN: Update"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"status",
+				"SVN: Status"
+			],
+			[
+				"svn up",
+				"SVN: Update"
+			],
+			[
+				"Snippet: ",
+				"Snippet: mtry"
+			],
+			[
+				"snippet",
+				"Snippet: tern-project"
+			],
+			[
+				"sn",
+				"Snippet: project"
+			],
+			[
+				"r",
+				"TernJS: Reload"
+			],
+			[
+				"reload",
+				"TernJS: Reload"
+			],
+			[
+				"svn revert",
+				"SVN: (File) Revert"
+			],
+			[
+				"svn re",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"rel",
+				"TernJS: Reload"
+			],
+			[
+				"snv",
+				"SVN: Log"
+			],
+			[
+				"COM",
+				"SVN: Commit…"
+			],
+			[
+				"ed",
+				"Project: Edit"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"SVN: Update"
+			],
+			[
+				"svn ",
+				"SVN: Branch…"
+			],
+			[
+				"svn com",
+				"SVN: Commit…"
+			],
+			[
+				"updat",
+				"SVN: Update"
+			],
+			[
+				"add",
+				"SVN: (File) Add"
+			],
+			[
+				"comm",
+				"SVN: Commit…"
+			],
+			[
+				"pref user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"user",
+				"Snippet: use strict"
+			],
+			[
+				"svn lo",
+				"SVN: Log"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"svn log",
+				"SVN: Log"
+			],
+			[
+				"snv com",
+				"SVN: Commit…"
+			],
+			[
+				"relo",
+				"TernJS: Reload"
+			],
+			[
+				"sta",
+				"SVN: Status"
+			],
+			[
+				"commi",
+				"SVN: Commit…"
+			],
+			[
+				"svn ig",
+				"SVN: (File) Ignore"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"Git",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Fetch"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"git f",
+				"Git: Fetch"
+			],
+			[
+				"sss",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"feth",
+				"Git: Fetch"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git  ch",
+				"Git: Checkout"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git c",
+				"Git: Checkout"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"ssscript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjavsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instanc",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fengmap/Documents/ztc/works/es6",
+		"/Users/fengmap/Documents/ztc/works/es6/build",
+		"/Users/fengmap/Documents/ztc/works/es6/plugin",
+		"/Users/fengmap/Documents/ztc/works/es6/src",
+		"/Users/fengmap/Documents/ztc/works/es6/test"
+	],
+	"file_history":
+	[
+		"/Users/fengmap/Documents/ztc/works/es6/.tern-project",
+		"/Users/fengmap/Documents/ztc/works/fengmap/package.json",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484890099/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/Three.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484889213/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapUtil.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/Map.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapPicker.js",
+		"/Users/fengmap/Downloads/basic.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484735438/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484735151/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/FMMapCoord.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/NaviTools.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484730846/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484725697/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484721050/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/ThreeOrbitControls.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/demos/wandaDemo/home.html",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484707858/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/hud/MapWaterMark_debug.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/hud/MapWaterMark.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/hud/MapWaterMarker_debug.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node_layer/FMLayer.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484551755/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fm-controls/controlOptions.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484548466/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/Gruntfile.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapOptions.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484302119/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484301028/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/.tern-project",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Installed Packages/easyfrog's Javascript Snippets/Code/TryCatchFinally.sublime-snippet",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/FMNode.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/FMNavigation.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/elements/Line.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/FMMap.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/appinfo/FMCerity.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/appinfo/FMCerity_debug.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node_layer/FMFacilityLayer.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484200489/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/MapLabel.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/MapSceneUtil.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484141245/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/enum/FMEnums.js",
+		"/Users/fengmap/Documents/ztc/works/bak/RawLine.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1484130214/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMFacility.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapService.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/MapScene.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/demos/FMDemoBaseMap/basic.html",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/enum/FMViewMode.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMLabel.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483960435/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/FMMap3.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-data/_protobuf.js",
+		"/Users/fengmap/Documents/ztc/works/bak/fmdemo/basic.html",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node_layer/FMTextMarkerLayer.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node_layer/FMLabelLayer.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/externs/predefine.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/marker/FMComponent.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapTheme.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMElement.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/demos/FMDemoHeatMap/heatmap.html",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node_group/FMGroup.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMModel.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMImageMarker.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/tween.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483832237/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/util.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483808743/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMStoreImage.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483805182/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483803197/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/marker/FMAnimation.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMPolygonMarker.js",
+		"/Users/fengmap/Downloads/3001/3001.theme",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/marker/FMMarker.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/marker/FMSprite.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483781370/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483773163/SVN",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/User/Presets.sublime-settings",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/hud/heatmap.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483757985/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483757493/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483721989/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483721811/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/Ajax.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483699588/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483617336/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/marker/FMMarkerCanvas.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/Navigeo.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fm-extent/theme/scatterPlot.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/MapView.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/FMMapGestureEnableController.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fm-controls/groupCtrl.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afmNoWebGL.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/MapPoi.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/FMNaviAnalyser.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/NaviDijkstra.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/MapNavLineGeometry.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMLocationMarker.js",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/Themr/Default (OSX).sublime-keymap",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483532127/SVN",
+		"/Users/fengmap/Documents/ztc/works/fengmap/demos/FMDemoShowNavi/demo.html",
+		"/Users/fengmap/Documents/ztc/works/fengmap/fmdemo/basic.html",
+		"/Users/fengmap/Documents/ztc/works/fengmap/demos/FMDemoShowNavi/data/scence/2223.fmap",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/newapi-fengmap/node/FMTextMarker.js",
+		"/Users/fengmap/Documents/ztc/works/tests/interpCoords.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/scene/elements/FMMaterial.js",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/RunCommands/runcommands.py",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/ayu/ayu-light2.sublime-theme",
+		"/Users/fengmap/Library/Application Support/Sublime Text 3/Packages/ayu/ayu-light.sublime-theme",
+		"/Users/fengmap/Documents/ztc/works/bak/ayu/ayu-light.sublime-theme",
+		"/Users/fengmap/Documents/ztc/works/bak/ayu/ayu-light.tmTheme",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fm-controls/zoomCtrl.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/appinfo/FMAES.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/afm/loaders/Loaders.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483429661/SVN",
+		"/Users/fengmap/Documents/ztc/works/bak/FMAES.js",
+		"/Users/fengmap/Documents/ztc/works/fengmap/src/fengmap/navi/NaviStruct.js",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483100983/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483098361/SVN",
+		"/var/folders/_w/vcp8lhgs5hqfc0l4tp8gy9km0000gn/T/sublime-svn-1483092853/SVN",
+		"/Users/fengmap/Documents/ztc/works/FMAES.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setValues",
+			"480",
+			"console",
+			"version",
+			"Version",
+			"version",
+			"externalModel",
+			"externalmodel",
+			"externalModel",
+			"storeThemes",
+			"storethemes",
+			"storeThemes",
+			"storethemes",
+			"480",
+			"33",
+			"storethemes",
+			"data_",
+			"type2theme_",
+			"{};\n",
+			"sidata",
+			"this",
+			"_createStoreImages",
+			"FMStoreImage",
+			"_createStoreImages",
+			"storeImages",
+			"Map",
+			"map",
+			"Map",
+			"map",
+			"modelDatas",
+			"903690118",
+			"90369018",
+			"_locMarker",
+			"LocationMarker",
+			"locationMarker",
+			"LocationMarker",
+			"locationMarker",
+			"FMNaviResult",
+			"getDirection",
+			"getDesc",
+			"navi",
+			"Navi",
+			"navi",
+			"store",
+			"Store",
+			"store",
+			"STORE",
+			"Store",
+			"store",
+			"zonTempObj",
+			"_flashID",
+			"flashID",
+			"jumpID",
+			"groupLengths",
+			"_groupsPoints",
+			"_getGroupsPoints",
+			"_groupsPoints",
+			"_naviDescriptions",
+			"naviGroupsDistance",
+			"_getTransformByLength",
+			"lastDrawed",
+			"getRouteLineSegments",
+			"drawLineMark",
+			"isSameGroup",
+			"();\n",
+			"console",
+			"endDirection",
+			"combinePoints",
+			"getDescData",
+			"endPoint",
+			"_groupsPoints",
+			"_getGroupsPoints",
+			"console",
+			"_drawlineByResults",
+			"_groupsPoints",
+			"naviModule",
+			"_addZeroResult",
+			"_naviResult",
+			"firstLine",
+			"addToScene",
+			"console",
+			"style",
+			"billboard",
+			"_billboard",
+			"billboard",
+			"assign",
+			"ns",
+			"_analyseRawPoints",
+			"drawNavigation",
+			"lineObj",
+			"_res",
+			"true",
+			"fixedWidth",
+			"fixedSize",
+			"reduce",
+			"lineWidth",
+			"focusGroup_",
+			"FMCerity_debug",
+			"Line",
+			"LineDashedMaterial",
+			"style",
+			"visibleGroupIDsChanged",
+			"console",
+			"getCerityData",
+			"_ajax",
+			"c90380",
+			"convertSite1_",
+			"defaultFocusGroup",
+			"poiLabelFadeMode",
+			"fadeVisible",
+			"fade",
+			"api",
+			"quicklyRemove",
+			"autoSetTheme",
+			"removeStoreImage",
+			"storeImageLayer",
+			"themeName",
+			"autoSetTheme",
+			"this",
+			"dispose",
+			"quicklyRemove",
+			"FMNavigation",
+			",",
+			"3001,",
+			"focusGroup_",
+			"_moveTo",
+			"alwaysShow",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"var",
+			"FMNaviResult",
+			"\"height\":\"38\"",
+			"\"height\":\"18\"",
+			"\"fontsize\": \"14.0\",",
+			"\"platesize\": \"18.0\",",
+			"\"fontsize\": \"14.0\",",
+			"\"platesize\": \"18.0\",",
+			"\"fontsize\": \"16.0\",",
+			"\"fontsize\": \"14.0\",\"imagesize\":\"22.0\",",
+			"\"fontsize\": \"14.0\",\"imagesize\":\"18.0\",",
+			"\"fontsize\": \"14.0\",\"imagesize\":\"14.0\",",
+			"\"fontsize\": \"14.0\",\"imagesize\":\"16\",",
+			"\"imagesize\":\"22\"",
+			"\"imagesize\":\"18\"",
+			"\"fontsize\": \"14.0\",\"imagesize\":\"16\",",
+			"\"fontsize\": \"14.0\",\\n\"imagesize\":\"16\",",
+			"\"fontsize\": \"14.0\",",
+			"fm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 132.0
+	},
+	"output.git-fetch":
+	{
+		"height": 160.0
+	},
+	"output.git-init":
+	{
+		"height": 118.0
+	},
+	"output.git-pull":
+	{
+		"height": 116.0
+	},
+	"output.git-push":
+	{
+		"height": 132.0
+	},
+	"output.git-remote":
+	{
+		"height": 183.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "es6.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"thr",
+				"src/afm/Three.js"
+			],
+			[
+				"fmmaterial",
+				"src/fengmap/scene/elements/FMMaterial.js"
+			],
+			[
+				"store",
+				"src/newapi-fengmap/node/FMStoreImage.js"
+			],
+			[
+				"u",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"fmmod",
+				"src/newapi-fengmap/node/FMModel.js"
+			],
+			[
+				"uti",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"op",
+				"src/fengmap/MapOptions.js"
+			],
+			[
+				"mapsc",
+				"src/fengmap/scene/MapScene.js"
+			],
+			[
+				"mapthe",
+				"src/fengmap/MapTheme.js"
+			],
+			[
+				"map",
+				"src/fengmap/Map.js"
+			],
+			[
+				"map.js",
+				"src/fengmap/Map.js"
+			],
+			[
+				"mapscene",
+				"src/fengmap/scene/MapScene.js"
+			],
+			[
+				"maptheme",
+				"src/fengmap/MapTheme.js"
+			],
+			[
+				"fmm",
+				"src/newapi-fengmap/FMMap.js"
+			],
+			[
+				"",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"fmmodel",
+				"src/newapi-fengmap/node/FMModel.js"
+			],
+			[
+				"util",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"navi",
+				"src/fengmap/navi/FMNavigation.js"
+			],
+			[
+				"fmco",
+				"src/newapi-fengmap/FMMapCoord.js"
+			],
+			[
+				"stor",
+				"src/newapi-fengmap/node/FMStoreImage.js"
+			],
+			[
+				"opt",
+				"src/fengmap/MapOptions.js"
+			],
+			[
+				"enu",
+				"src/newapi-fengmap/enum/FMEnums.js"
+			],
+			[
+				"af",
+				"src/afm.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"wa",
+				"src/fengmap/hud/MapWaterMark.js"
+			],
+			[
+				"hu",
+				"src/fengmap/hud/MapWaterMark.js"
+			],
+			[
+				"fmlayer",
+				"src/newapi-fengmap/node_layer/FMLayer.js"
+			],
+			[
+				"contro",
+				"src/afm/ThreeOrbitControls.js"
+			],
+			[
+				"control",
+				"src/afm/ThreeOrbitControls.js"
+			],
+			[
+				"mapla",
+				"src/fengmap/scene/MapLabel.js"
+			],
+			[
+				"storeima",
+				"src/newapi-fengmap/node/FMStoreImage.js"
+			],
+			[
+				"m",
+				"src/fengmap/Map.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"fmn",
+				"src/newapi-fengmap/FMNode.js"
+			],
+			[
+				"fmmap",
+				"src/newapi-fengmap/FMMap.js"
+			],
+			[
+				"fmstor",
+				"src/newapi-fengmap/node/FMStoreImage.js"
+			],
+			[
+				"ma",
+				"src/fengmap/Map.js"
+			],
+			[
+				"fmmode",
+				"src/newapi-fengmap/node/FMModel.js"
+			],
+			[
+				"navigeo",
+				"src/fengmap/scene/MapNavLineGeometry.js"
+			],
+			[
+				"line",
+				"src/fengmap/scene/elements/Line.js"
+			],
+			[
+				"map.",
+				"src/fengmap/Map.js"
+			],
+			[
+				"fmma",
+				"src/newapi-fengmap/FMMap.js"
+			],
+			[
+				"mapco",
+				"src/newapi-fengmap/FMMapCoord.js"
+			],
+			[
+				"fmline",
+				"src/fengmap/scene/elements/Line.js"
+			],
+			[
+				"enumej",
+				"src/newapi-fengmap/enum/FMViewMode.js"
+			],
+			[
+				"mapview",
+				"src/fengmap/MapView.js"
+			],
+			[
+				"fmcer",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"fmfaci",
+				"src/newapi-fengmap/node/FMFacility.js"
+			],
+			[
+				"fmlabel",
+				"src/newapi-fengmap/node/FMLabel.js"
+			],
+			[
+				"maps",
+				"src/fengmap/MapService.js"
+			],
+			[
+				"fmfac",
+				"src/newapi-fengmap/node/FMFacility.js"
+			],
+			[
+				"maplab",
+				"src/fengmap/scene/MapLabel.js"
+			],
+			[
+				"mapop",
+				"src/fengmap/MapOptions.js"
+			],
+			[
+				"option",
+				"src/fengmap/MapOptions.js"
+			],
+			[
+				"mapsce",
+				"src/fengmap/scene/MapScene.js"
+			],
+			[
+				"maplel",
+				"src/fengmap/scene/MapLabel.js"
+			],
+			[
+				"image",
+				"src/newapi-fengmap/node_layer/FMImageMarkerLayer.js"
+			],
+			[
+				"label",
+				"src/newapi-fengmap/node_layer/FMLabelLayer.js"
+			],
+			[
+				"textla",
+				"src/newapi-fengmap/node_layer/FMTextMarkerLayer.js"
+			],
+			[
+				".",
+				".tern-project"
+			],
+			[
+				"afm",
+				"src/afm.js"
+			],
+			[
+				"amf",
+				"src/afm.js"
+			],
+			[
+				"theme",
+				"src/fengmap/MapTheme.js"
+			],
+			[
+				"imagemar",
+				"src/newapi-fengmap/node/FMImageMarker.js"
+			],
+			[
+				"fmmar",
+				"src/newapi-fengmap/marker/FMMarker.js"
+			],
+			[
+				"demo",
+				"~/Documents/ztc/works/fengmap/demos/FMDemoShowNavi/demo.html"
+			],
+			[
+				"tween",
+				"src/afm/tween.js"
+			],
+			[
+				"fmgrou",
+				"src/newapi-fengmap/node_group/FMGroup.js"
+			],
+			[
+				"fmnode",
+				"src/newapi-fengmap/FMNode.js"
+			],
+			[
+				"element",
+				"src/newapi-fengmap/node/FMElement.js"
+			],
+			[
+				"fmpl",
+				"src/newapi-fengmap/node/FMPolygonMarker.js"
+			],
+			[
+				"cer",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"cery",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"he",
+				"src/fengmap/hud/heatmap.js"
+			],
+			[
+				"fmmp",
+				"src/newapi-fengmap/node/FMPolygonMarker.js"
+			],
+			[
+				"hea",
+				"src/fengmap/hud/heatmap.js"
+			],
+			[
+				"aja",
+				"src/afm/Ajax.js"
+			],
+			[
+				"fmcoo",
+				"src/newapi-fengmap/FMMapCoord.js"
+			],
+			[
+				"fmnav",
+				"src/fengmap/navi/FMNavigation.js"
+			],
+			[
+				"cerity",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"mpaop",
+				"src/fengmap/MapOptions.js"
+			],
+			[
+				"fmmapco",
+				"src/newapi-fengmap/FMMapCoord.js"
+			],
+			[
+				"certi",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"gro",
+				"src/fm-controls/groupCtrl.js"
+			],
+			[
+				"de",
+				"~/Documents/ztc/works/fengmap/demos/FMDemoShowNavi/demo.html"
+			],
+			[
+				"imag",
+				"src/newapi-fengmap/node/FMImageMarker.js"
+			],
+			[
+				"loca",
+				"src/newapi-fengmap/node/FMLocationMarker.js"
+			],
+			[
+				"ges",
+				"src/newapi-fengmap/FMMapGestureEnableController.js"
+			],
+			[
+				"them",
+				"src/fengmap/MapTheme.js"
+			],
+			[
+				"poly",
+				"src/newapi-fengmap/node/FMPolygonMarker.js"
+			],
+			[
+				"poi",
+				"src/fengmap/scene/MapPoi.js"
+			],
+			[
+				"gps",
+				"src/fengmap/MapService.js"
+			],
+			[
+				"the",
+				"src/fengmap/MapTheme.js"
+			],
+			[
+				"textmar",
+				"src/newapi-fengmap/node/FMTextMarker.js"
+			],
+			[
+				"location",
+				"src/newapi-fengmap/node/FMLocationMarker.js"
+			],
+			[
+				"fma",
+				"src/fengmap/navi/FMNaviAnalyser.js"
+			],
+			[
+				"th",
+				"src/afm/ThreeOrbitControls.js"
+			],
+			[
+				"inter",
+				"~/Documents/ztc/works/tests/interpCoords.js"
+			],
+			[
+				"zoo",
+				"src/fm-controls/zoomCtrl.js"
+			],
+			[
+				"aes",
+				"src/afm/appinfo/FMAES.js"
+			],
+			[
+				"pol",
+				"src/newapi-fengmap/node/FMPolygonMarker.js"
+			],
+			[
+				"naviga",
+				"src/fengmap/navi/FMNavigation.js"
+			],
+			[
+				"a",
+				"src/afm/appinfo/FMAES.js"
+			],
+			[
+				"ae",
+				"src/afm/appinfo/FMAES.js"
+			],
+			[
+				"fmcerity",
+				"src/afm/appinfo/FMCerity.js"
+			],
+			[
+				"twen",
+				"src/afm/tween.js"
+			],
+			[
+				"tw",
+				"src/afm/tween.js"
+			],
+			[
+				"ut",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"fengmap",
+				"src/fengmap/MapUtil.js"
+			],
+			[
+				"nav",
+				"src/fengmap/navi/NaviDijkstra.js"
+			],
+			[
+				"servie",
+				"src/fengmap/MapService.js"
+			],
+			[
+				"hud",
+				"src/fengmap/hud/MapWaterMark.js"
+			],
+			[
+				"labe",
+				"src/newapi-fengmap/node/FMLabel.js"
+			],
+			[
+				"text",
+				"src/newapi-fengmap/node_layer/FMTextMarkerLayer.js"
+			],
+			[
+				"fmfa",
+				"src/newapi-fengmap/node_layer/FMFacilityLayer.js"
+			],
+			[
+				"lab",
+				"src/newapi-fengmap/node_layer/FMLabelLayer.js"
+			],
+			[
+				"fm",
+				"src/newapi-fengmap/FMMap.js"
+			],
+			[
+				"j",
+				"src/afm/loaders/JSONLoader.js"
+			],
+			[
+				"fmla",
+				"src/newapi-fengmap/node/FMLabel.js"
+			],
+			[
+				"en",
+				"src/afm/Evento.js"
+			],
+			[
+				"pick",
+				"src/fengmap/MapPicker.js"
+			],
+			[
+				"fmlab",
+				"src/newapi-fengmap/node/FMLabel.js"
+			],
+			[
+				"mapl",
+				"src/fengmap/scene/MapLabel.js"
+			],
+			[
+				"ser",
+				"src/fengmap/MapService.js"
+			],
+			[
+				"server",
+				"src/fengmap/navi/NaviService.js"
+			],
+			[
+				"mapser",
+				"src/fengmap/MapService.js"
+			],
+			[
+				"thej",
+				"src/fengmap/MapTheme.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/ztc/works/frog/frog.sublime-project"
+			],
+			[
+				"fr",
+				"~/Documents/ztc/works/frog/frog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

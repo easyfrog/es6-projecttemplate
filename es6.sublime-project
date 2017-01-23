@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime*",
+				".project",
+				"SVN"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"misc",
+				"old_files",
+				"doc",
+				"demos",
+				"jssdk-server-demo",
+				".*",
+				"tool"
+			],
+			"path": "."
+		}
+	]
+}
