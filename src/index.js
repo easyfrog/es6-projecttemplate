@@ -1,4 +1,4 @@
-import {CONST_AGE, Person, num} from './module'
+import { CONST_AGE, Person, num } from './module'
 
 console.log('num from module', num);
 
@@ -7,7 +7,7 @@ let xiaoming = new Person('xiaoming', 13);
 xiaoming.sayHi(' nice to meet you! ');
 xiaoming.sayHi();
 
-console.log(xiaoming, Person.prototype, Object.getPrototypeOf(xiaoming), xiaoming.myProp);
+// console.log(xiaoming, Person.prototype, Object.getPrototypeOf(xiaoming), xiaoming.myProp);
 
 console.log('Symbol is ', Symbol('mysym'));
 
@@ -26,10 +26,10 @@ console.log(map.get('name'));
 
 
 if (DEBUG) {
-	(function() {
-		console.log('IS DEBUG');
-	})();
+	console.log('IS DEBUG');
 }
+
+export { Person, num, map }
 
 /*function* generator() {
 	yield 1;

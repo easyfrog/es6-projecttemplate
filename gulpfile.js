@@ -3,8 +3,11 @@
  */
 var gulp = require('gulp'),
 
+	// row rollup
+	rollup = require('rollup'),
+
 	// gulp 较好一些的 rollup 插件: 用于将es6的模块打包成一个js文件
-	rollup = require('gulp-better-rollup'),
+	// rollup = require('gulp-better-rollup'),
 
 	// rollup 的 babel 插件: 用于 6to5
 	babel = require('rollup-plugin-babel'),
@@ -20,6 +23,77 @@ var gulp = require('gulp'),
 	
 	// uglify
 	uglify = require('gulp-uglify');
+
+
+/**
+ * Threejs rollup glsl translater plugin
+ */
+function glsl () {
+	return {
+		transform ( code, id ) {
+			if ( !/\.glsl$/.test( id ) ) return;
+
+			var transformedCode = 'export default ' + JSON.stringify(
+				code
+					.replace( /[ \t]*\/\/.*\n/g, '' )
+					.replace( /[ \t]*\/\*[\s\S]*?\*\//g, '' )
+					.replace( /\n{2,}/g, '\n' )
+			) + ';';
+			return {
+				code: transformedCode,
+				map: { mappings: '' }
+			}
+		}
+	};
+}
+
+/**
+ * rollup build
+ */
+gulp.task('rollupBuild', function () {
+	return rollup.rollup({
+		entry: "./src/index.js",
+		plugins: [
+			glsl(),
+			babel({
+				exclude: 'node_modules/**',
+				presets: ['es2015-rollup']
+			})
+		],
+	})
+	.then(function (bundle) {
+		bundle.write({
+			format: "iife",
+			moduleName: "fengmap",
+			dest: "./build/build.js",
+			sourceMap: false
+		});
+	});
+});
+
+/**
+ * uglify
+ */
+gulp.task('uglify', ['rollupBuild'], function() {
+
+	var isRelease = process.argv.indexOf('-r') > -1;
+
+	return gulp.src('./build/build.js')
+		.pipe(uglify({
+			compress: {
+				unused: true,
+				dead_code: true,
+				drop_console: isRelease,
+
+				// 类似 "宏""
+				global_defs: {
+					DEBUG: !isRelease
+				}
+			}
+		}))
+		.pipe(rename('build.min.js'))
+		.pipe(gulp.dest('./build/'))
+});
 
 
 /**
@@ -39,10 +113,11 @@ gulp.task('bundle', function() {
 		// fromat: iife amd umd cjs es
 	   .pipe(rollup({
 	   		plugins: [
-	   				babel({
-	   					exclude: 'node_modules/**',
-	   					presets: ['es2015-rollup']
-	   				})
+	   			glsl(),
+	   				// babel({
+	   				// 	exclude: 'node_modules/**',
+	   				// 	presets: ['es2015-rollup']
+	   				// })
 	   			]
 	   	}, 'iife'))
 
@@ -52,7 +127,7 @@ gulp.task('bundle', function() {
 	   .pipe(gulp.dest('./build/'))
 
 	   // uglify
-	   .pipe(uglify({
+	   /*.pipe(uglify({
 	   		compress: {
 	   			unused: true,
 	   			dead_code: true,
@@ -65,14 +140,14 @@ gulp.task('bundle', function() {
 	   		}
 	   }))
 	   .pipe(rename('build.min.js'))
-	   .pipe(gulp.dest('./build/'))
+	   .pipe(gulp.dest('./build/'))*/
 });
 
 /**
  * gulp merge task
  * 		merge plugins and bundle
  */
-gulp.task('merge', ['bundle'], function() {
+gulp.task('merge', [/*'bundle', */'rollupBuild'], function() {
 
 	// ES6 兼容文件
 	var polyfill = './lib/babel-polyfill.js';
@@ -98,7 +173,7 @@ gulp.task('merge', ['bundle'], function() {
 /**
  * gulp default task
  */
-gulp.task('default', ['bundle', 'merge']);
+gulp.task('default', ['uglify'/*'rollupBuild'*//*, 'merge'*/]);
 
 
 

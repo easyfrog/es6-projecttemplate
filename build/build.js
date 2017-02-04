@@ -1,6 +1,4 @@
-/*! Hello Fengmap */
-
-(function () {
+(function (exports) {
 'use strict';
 
 var obj = {
@@ -32,74 +30,13 @@ var createClass = function () {
   };
 }();
 
+// import { Math as tMath } from '../lib/three.modules';
+// import { Math as tMath } from '../node_modules/three/build/three.module.js';
+// import { Math as tMath } from '../node_modules/three/src/Three.js';
+// import { Vector3 } from '../node_modules/three/build/three.module.js';
 
-
-
-
-
-
-var get$1 = function get$1(object, property, receiver) {
-  if (object === null) object = Function.prototype;
-  var desc = Object.getOwnPropertyDescriptor(object, property);
-
-  if (desc === undefined) {
-    var parent = Object.getPrototypeOf(object);
-
-    if (parent === null) {
-      return undefined;
-    } else {
-      return get$1(parent, property, receiver);
-    }
-  } else if ("value" in desc) {
-    return desc.value;
-  } else {
-    var getter = desc.get;
-
-    if (getter === undefined) {
-      return undefined;
-    }
-
-    return getter.call(receiver);
-  }
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var set$1 = function set$1(object, property, value, receiver) {
-  var desc = Object.getOwnPropertyDescriptor(object, property);
-
-  if (desc === undefined) {
-    var parent = Object.getPrototypeOf(object);
-
-    if (parent !== null) {
-      set$1(parent, property, value, receiver);
-    }
-  } else if ("value" in desc && desc.writable) {
-    desc.value = value;
-  } else {
-    var setter = desc.set;
-
-    if (setter !== undefined) {
-      setter.call(receiver, value);
-    }
-  }
-
-  return value;
-};
+// console.log(tMath.DEG2RAD);
+// console.log(new Vector3());
 
 console.log(obj.name, obj.age);
 
@@ -135,18 +72,18 @@ var Person = function () {
 		}
 	}, {
 		key: 'name',
-		get: function get() {
+		get: function get$$1() {
 			return this._name;
 		},
-		set: function set(val) {
+		set: function set$$1(val) {
 			this._name = val;
 		}
 	}, {
 		key: 'age',
-		get: function get() {
+		get: function get$$1() {
 			return this._age;
 		},
-		set: function set(val) {
+		set: function set$$1(val) {
 			this._age = val;
 		}
 	}]);
@@ -160,7 +97,7 @@ var xiaoming = new Person('xiaoming', 13);
 xiaoming.sayHi(' nice to meet you! ');
 xiaoming.sayHi();
 
-console.log(xiaoming, Person.prototype, Object.getPrototypeOf(xiaoming), xiaoming.myProp);
+// console.log(xiaoming, Person.prototype, Object.getPrototypeOf(xiaoming), xiaoming.myProp);
 
 console.log('Symbol is ', Symbol('mysym'));
 
@@ -180,10 +117,10 @@ map.set('name', 'ztc');
 console.log(map.get('name'));
 
 if (DEBUG) {
-	(function () {
-		console.log('IS DEBUG');
-	})();
+	console.log('IS DEBUG');
 }
+
+
 
 /*function* generator() {
 	yield 1;
@@ -218,4 +155,8 @@ var pro2 = new Promise((res, rej) => {
 pro2.then((res) => console.log(res))
 	.catch(err => console.log(err));*/
 
-}());
+exports.Person = Person;
+exports.num = num$$1;
+exports.map = map;
+
+}((this.fengmap = this.fengmap || {})));
