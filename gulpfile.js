@@ -65,8 +65,8 @@ gulp.task('rollupBuild', function () {
 		bundle.write({
 			format: "iife",
 			moduleName: "fengmap",
-			dest: "./build/build.js",
 			sourceMap: false
+			dest: "./build/build.js",
 		});
 	});
 });
@@ -92,12 +92,14 @@ gulp.task('uglify', ['rollupBuild'], function() {
 			}
 		}))
 		.pipe(rename('build.min.js'))
+		.pipe(header('/*! Hello ${ projectName } */\n\n', { projectName: 'Fengmap' }))
 		.pipe(gulp.dest('./build/'))
 });
 
 
 /**
  * gulp bundle task
+ * abandon
  */
 gulp.task('bundle', function() {
 
@@ -127,7 +129,7 @@ gulp.task('bundle', function() {
 	   .pipe(gulp.dest('./build/'))
 
 	   // uglify
-	   /*.pipe(uglify({
+	   .pipe(uglify({
 	   		compress: {
 	   			unused: true,
 	   			dead_code: true,
@@ -140,7 +142,7 @@ gulp.task('bundle', function() {
 	   		}
 	   }))
 	   .pipe(rename('build.min.js'))
-	   .pipe(gulp.dest('./build/'))*/
+	   .pipe(gulp.dest('./build/'))
 });
 
 /**

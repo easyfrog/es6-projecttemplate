@@ -1,5 +1,9 @@
-import { CONST_AGE, Person, num } from './module'
+// import { CONST_AGE } from './module';
 
+export { num, Person } from './module';
+
+
+/*
 console.log('num from module', num);
 
 let xiaoming = new Person('xiaoming', 13);
@@ -29,7 +33,9 @@ if (DEBUG) {
 	console.log('IS DEBUG');
 }
 
-export { Person, num, map }
+// export { Person, map }
+
+// export { num } from './module';
 
 /*function* generator() {
 	yield 1;

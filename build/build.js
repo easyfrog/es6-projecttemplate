@@ -40,8 +40,6 @@ var createClass = function () {
 
 console.log(obj.name, obj.age);
 
-var CONST_AGE = 25;
-
 function myFun() {
 	console.log('alksdjfasd');
 }
@@ -90,9 +88,14 @@ var Person = function () {
 	return Person;
 }();
 
-console.log('num from module', num$$1);
+// import { CONST_AGE } from './module';
 
-var xiaoming = new Person('xiaoming', 13);
+
+
+/*
+console.log('num from module', num);
+
+let xiaoming = new Person('xiaoming', 13);
 
 xiaoming.sayHi(' nice to meet you! ');
 xiaoming.sayHi();
@@ -101,26 +104,27 @@ xiaoming.sayHi();
 
 console.log('Symbol is ', Symbol('mysym'));
 
-console.log('const value is ' + CONST_AGE);
+console.log(`const value is ${CONST_AGE}`);
 
-var arr = [12, 3, 4, 6, 6];
+let arr = [12,3,4,6,6];
 
-var sum = arr.reduce(function (p, n) {
-	return p + n;
-}, 0);
+var sum = arr.reduce((p, n) => p + n, 0);
 
-console.log('sum is ' + sum);
+console.log(`sum is ${ sum }`);
 
 var map = new Map();
 map.set('name', 'ztc');
 
 console.log(map.get('name'));
 
+
 if (DEBUG) {
 	console.log('IS DEBUG');
 }
 
+// export { Person, map }
 
+// export { num } from './module';
 
 /*function* generator() {
 	yield 1;
@@ -155,8 +159,7 @@ var pro2 = new Promise((res, rej) => {
 pro2.then((res) => console.log(res))
 	.catch(err => console.log(err));*/
 
-exports.Person = Person;
 exports.num = num$$1;
-exports.map = map;
+exports.Person = Person;
 
 }((this.fengmap = this.fengmap || {})));
